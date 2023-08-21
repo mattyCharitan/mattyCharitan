@@ -1,6 +1,5 @@
 # Matty Charitan 👨‍💻
 
-📧 Email: mattycharitan@gmail.com | 📞 Phone: 0548546154  
 💼 [LinkedIn](https://www.linkedin.com/in/mattycharitan/) | [GitHub](https://github.com/mattyCharitan)
 
 ## 🚀 About Me
@@ -48,4 +47,4 @@ Passionate software engineer with a background in Mahat Software Engineering. Gr
 ## 🌟 Volunteering
 - Provided IT support and troubleshooting for friends and family, including resolving software glitches and performing OS installations.
 
-Feel free to get in touch with me via email or LinkedIn for collaborations and opportunities!
+Feel free to get in touch with me via LinkedIn for collaborations and opportunities!
