@@ -15,4 +15,4 @@ Passionate software engineer with a strong foundation in Mahat Software Engineer
   - Created a Mario clone using C++ and leveraged object-oriented programming principles.
   - Applied best programming practices and design patterns for maintainable code.
 - **For more of my projects, check out my [Repositories](https://github.com/mattyCharitan?tab=repositories).**
-- Connect with me on LinkedIn to discuss potential collaborations!
+Connect with me on LinkedIn to discuss potential collaborations!
