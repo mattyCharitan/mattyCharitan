@@ -2,49 +2,22 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/mattycharitan/) | [GitHub](https://github.com/mattyCharitan)
 
-## 🚀 About Me
-Passionate software engineer with a background in Mahat Software Engineering. Graduated with a GPA of 95. Currently in Kematek's bootcamp. Fast learner and adaptable to new technologies. Seeking backend opportunities for growth.
+Passionate software engineer with a strong foundation in Mahat Software Engineering, achieving a GPA of 95. My dedication to learning and adaptability to new technologies drive to enhance my skills. Proficient in a range of languages including C, C++, C#, Java, Python, and Node.js.  
 
-## 🎓 Education
-- **ULTRACODE | KAMATECH** (2021-2023)
-  - GPA: 91
-  - Computer science, algorithms, data structures, operating systems, digital systems, computer organization.
+## Projects
 
-- **SOFTWARE ENGINEERING MAHAT | MACHON BEIT YAAKOV L'MOROT** (2021-2023)
-  - GPA: 95
-  - Software engineering with a strong foundation in the field.
-
-## 💡 Projects
-- **ATTENDANCE SYSTEM** (Final Project)
-  - Developed a system based on facial recognition technology for classroom attendance.
-  - Utilized C#, Python, SQL, and React for development.
+- **ATTENDANCE SYSTEM**
+  - Developed a state-of-the-art system employing facial recognition for classroom attendance.
+  - Utilized a tech stack of C#, Python, SQL, and React.
   - Gained expertise in Python libraries and facial recognition techniques.
-  - Showcased teamwork, time management, and collaborative problem-solving.
-
+  - Demonstrated effective teamwork, time management, and collaborative problem-solving.
 - **VENDING MACHINE - DESIGN PATTERN**
-  - Created a software application using C# API and WinForms with a focus on design patterns.
-  - Implemented a three-layer model for clean, maintainable, and expandable code.
-  - Followed UML diagrams for organized code structure.
-
+  - Engineered a robust software application using C# API and WinForms with a focus on design patterns.
+  - Constructed a three-layer model for clean, maintainable, and scalable code.
+  - Implemented UML diagrams to ensure an organized and systematic code structure.
 - **SUPER MARIO CLONE**
-  - Developed a Mario clone using C++ and object-oriented programming principles.
-  - Demonstrated proficiency in programming practices and design patterns.
+  - Created a Mario clone using C++ and leveraged object-oriented programming principles.
+  - Applied best programming practices and design patterns for maintainable code.
+ **For more of my projects, check out my [GitHub profile](https://github.com/mattyCharitan).**
 
-- **[More Projects on GitHub](https://github.com/yourusername?tab=repositories)**
-  - Check out my GitHub repositories for additional projects and contributions.
-
-## 🛠️ Technical Skills
-- **Server Side**: C, C++, C#, Java, Python, Node.js
-- **Database**: SQL, MongoDB
-- **Client Side**: JavaScript (ES6), HTML, CSS
-- **Frameworks**: React, Express.js
-
-## 💼 Experience
-- **SPECIAL NEEDS TRANSPORTATION ESCORT** (2022-2023)
-  - Developed communication skills, responsibility, and time management.
-  - Interacted with parents and students to ensure safe and efficient transportation.
-
-## 🌟 Volunteering
-- Provided IT support and troubleshooting for friends and family, including resolving software glitches and performing OS installations.
-
-Feel free to get in touch with me via LinkedIn for collaborations and opportunities!
+Connect with me on LinkedIn to discuss potential collaborations!
