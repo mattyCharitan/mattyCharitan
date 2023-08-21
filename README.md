@@ -1,5 +1,5 @@
 # Matty Charitan 👨‍💻
-💼 [LinkedIn](https://www.linkedin.com/in/mattycharitan/) | [GitHub](https://github.com/mattyCharitan)
+💼 [LinkedIn](https://www.linkedin.com/in/mattycharitan/) 
 Passionate software engineer with a strong foundation in Mahat Software Engineering, achieving a GPA of 95. My dedication to learning and adaptability to new technologies drive to enhance my skills. Proficient in a range of languages including C, C++, C#, Java, Python, and Node.js.  
 ## Projects
 - **ATTENDANCE SYSTEM**
@@ -14,5 +14,5 @@ Passionate software engineer with a strong foundation in Mahat Software Engineer
 - **SUPER MARIO CLONE**
   - Created a Mario clone using C++ and leveraged object-oriented programming principles.
   - Applied best programming practices and design patterns for maintainable code.
-- **For more of my projects, check out my [GitHub profile](https://github.com/mattyCharitan).**
+- **For more of my projects, check out my [Repositories](https://github.com/mattyCharitan?tab=repositories).**
 Connect with me on LinkedIn to discuss potential collaborations!
