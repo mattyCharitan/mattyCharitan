@@ -1,6 +1,10 @@
 # Matty Charitan 👨‍💻
 💼 [LinkedIn](https://www.linkedin.com/in/mattycharitan/) 
-Passionate software engineer with a strong foundation in Mahat Software Engineering, achieving a GPA of 95. My dedication to learning and adaptability to new technologies drive to enhance my skills. Proficient in a range of languages including C, C++, C#, Java, Python, and Node.js.  
+
+Mahat Software Engineering Graduate with a GPA of 95, currently in Kematek's bootcamp. I am self-learning and passionate
+about the field. I have experience with a wide variety of languages and technologies. seeking a position where I will be able to contribute,
+learn, and grow.
+ 
 ## Projects
 - **ATTENDANCE SYSTEM**
   - Developed a state-of-the-art system employing facial recognition for classroom attendance.
